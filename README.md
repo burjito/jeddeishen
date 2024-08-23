@@ -1,2 +1,2 @@
-## Hi, I am Jedd Eishen Aguilar!
+## Hi, I am Jedd Aguilar!
 ### This is my repository.
